@@ -82,6 +82,3 @@ Home         |  About | Canvas       |
 
 ## License
 You can read the MIT License [here](https://github.com/MLH-Fellowship/neuro-art/blob/main/LICENSE).
-
-
-
